@@ -1,0 +1,1 @@
+?x,rdf:type,?y.?y,rdfs:subClassOf,Animal.exchange,rdfs:subPropertyOf,Trade.

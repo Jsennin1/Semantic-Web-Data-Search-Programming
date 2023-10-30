@@ -1,0 +1,1 @@
+ex:Timmy43,rdf:type*,?x.
